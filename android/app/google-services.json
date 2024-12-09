@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333075960260",
+    "project_id": "monappagora",
+    "storage_bucket": "monappagora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333075960260:android:00df892a689b9350055491",
+        "android_client_info": {
+          "package_name": "com.example.mon_app_agora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFu9iZNSWHpOCDt-LnN42VHeQ3oX3-qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
